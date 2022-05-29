@@ -6,4 +6,9 @@
 -- qualquer valor passado na lista de valores
 
 
-(valor) >= minimo AND (valor) <= maximo
+valor IN (valor1,valor2)
+
+valor IN (SELECT valor FROM nomeDaTabela) /* O select é chamado de 
+subSelect ou subQuery */
+
+
