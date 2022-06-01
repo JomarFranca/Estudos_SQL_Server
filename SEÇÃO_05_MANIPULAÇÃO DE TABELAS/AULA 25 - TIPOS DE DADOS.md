@@ -11,15 +11,24 @@
         ## TAMANHO VARIÁVEIS - TIPO = VACHAR OU NVARCHAR > PERMIRTE INSERIR ATÉ UMA QUANTIDE QUE FOR DEFINIDA, PORÉM SÓ USA O ESPAÇO QUE FOR PREECHIDO 10/50.
 
     > NÚMEROS
-        ## TIPO TINYINT = NÃO TEM PARTE VALOR FRACIONADO (EX: 1.43, 24.23) SOMENTE 1,123123,324324,313123 ETC...
-        ## TIPO SMALLINT =
-        ## TIPO INT =
-        ## TIPO BIGINT =
-        ## TIPO NUMERIC E DECIMAL =
-
-
+        >> VALORES EXATOS
+            ## TIPO TINYINT = NÃO TEM PARTE VALOR FRACIONADO (EX: 1.43, 24.23) SOMENTE 1,123123,324324,313123 ETC...
+            ## TIPO SMALLINT =
+            ## TIPO INT =
+            ## TIPO BIGINT =
+            ## TIPO NUMERIC E DECIMAL =
+        
+        >> VALORES APROXIMADOS
+            ## TIPO REAL = 
+            ## TIPO FLOAT =
 
     > TEMPORAIS
+        ## TIPO DATE =
+        ## TIPO DATETIME =
+        ## TIPO DATETIME2 =
+        ## TIPO SMALLDATETIME =
+        ## TIPO TIME =
+        ## TIPO DATETIMEOFFSET =
 
 - OBS.
 */
